@@ -1,5 +1,5 @@
 const products = [
-  { id: 1, name: "苹果", price: 3.5, image: "https://source.unsplash.com/240x160/?apple" },
+  { id: 1, name: "苹果", price: 5.0, image: "images/apple.jpg" },
   { id: 2, name: "香蕉", price: 2.0, image: "https://source.unsplash.com/240x160/?banana" },
   { id: 3, name: "牛奶", price: 5.0, image: "https://source.unsplash.com/240x160/?milk" },
   { id: 4, name: "面包", price: 4.2, image: "https://source.unsplash.com/240x160/?bread" },
